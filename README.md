@@ -1,5 +1,7 @@
-# Livro de reaitas:
+# Livro de receitas:
 
-Olá! Bem vindo ao meulivro de receitas: Aprendendo GIT!
+##Aprendendo GIT!
+
+**Olá! Bem vindo ao meu livro de receitas:**
 
  * Strogonoff de Frango
