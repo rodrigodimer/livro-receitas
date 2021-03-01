@@ -1,4 +1,4 @@
-#Strogonoff de Frando
+# Strogonoff de Frando
 
 ### Ingredientes
 * 3 peitos de frango cortados em cubos

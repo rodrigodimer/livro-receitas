@@ -1,7 +1,9 @@
 # Livro de receitas:
 
-##Aprendendo GIT!
+## Aprendendo GIT!
 
 **Olá! Bem vindo ao meu livro de receitas:**
 
- * Strogonoff de Frango
+* Strogonoff de Frango
+
+* Pavê
